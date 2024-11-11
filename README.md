@@ -1,0 +1,2 @@
+This dataset provides a rich snapshot of GitHub users from India, capturing various aspects of their public profiles. It's a valuable resource for analyzing trends in coding activity, repository management, and user engagement within the Indian developer community. Whether you're interested in exploring how developers grow their followers, examining language preferences, or identifying patterns in contributions and achievements, this dataset offers multiple points of analysis.
+Dataset🔗: https://www.kaggle.com/datasets/architty108/github-indian-users-deep-data
